@@ -1,7 +1,7 @@
 # À propos de moi:
 Étudiante en BUT INFORMATIQUE avec l'objectif de travailler en cybersécurité/data.<br>J'aime toucher à tout et à côté de mes études je fais du développement pour améliorer mes compétences.
 
-## Mes réseaux:
+# Mes réseaux:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gpltvt) 
 
 # Mes compétences:
